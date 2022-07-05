@@ -132,6 +132,7 @@ For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
 
 6. What is the total quantity of each ingredient used in all delivered pizzas sorted by most frequent first?
 
+![6](https://user-images.githubusercontent.com/107050974/177225470-e10750d3-16d4-4f22-a238-f27c35f37180.png)
 
 ## D. Pricing and Ratings
 1. If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes - how much money has Pizza Runner made so far if there are no delivery fees?
