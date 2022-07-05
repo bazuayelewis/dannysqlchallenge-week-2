@@ -88,6 +88,9 @@ Before you start writing your SQL queries however - you might want to investigat
 
 ![3](https://user-images.githubusercontent.com/107050974/177215237-7967c4cf-ab14-4c60-ae1c-4b8e3ec784d1.png)
 
+/*Yes, there is a relationship between number of pizzas ordered and how long to prepare.
+This is because multiple pizzas take longer to pickup*/
+
 4. What was the average distance travelled for each customer?
 
 ![4](https://user-images.githubusercontent.com/107050974/177215252-ef64ca28-70d9-4a7a-b490-d97c32bbe04a.png)
@@ -111,11 +114,15 @@ Before you start writing your SQL queries however - you might want to investigat
 
 2. What was the most commonly added extra?
 
+/*Had a tough time with this query(open to comments)*/
+
 ![2](https://user-images.githubusercontent.com/107050974/177215458-104c0a97-4600-45f0-a273-307b2dde414e.png)
 
 3. What was the most common exclusion?
 
-![3](https://user-images.githubusercontent.com/107050974/177215468-cd564f38-6f82-49d3-bc2a-571b1ab0a700.png)
+/*Had a tough time with this query too, lol.*/
+
+![2](https://user-images.githubusercontent.com/107050974/177228222-e80e2c07-421e-4819-998d-c8ca137b7c50.png)
 
 4. Generate an order item for each record in the customers_orders table in the format of one of the following:
 Meat Lovers
